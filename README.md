@@ -1,2 +1,2 @@
 # Random-problems
-Descending subseries problem
+Random solutions to random problems
