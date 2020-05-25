@@ -7,8 +7,6 @@ import re
 import sys
 
 # Complete the migratoryBirds function below.
-
-
 def migratoryBirds(arr):
     typecount = [0 for i in range(5)]
     for i in arr:
