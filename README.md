@@ -1,4 +1,4 @@
 # Random-problems
-Random solutions to random problems
+Solutions to random problems
 
 .
